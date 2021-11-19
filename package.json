@@ -4,9 +4,9 @@
   "description": "A scale on the container and not on the content of a card when hovering.",
   "main": "index.js",
   "repository": "https://github.com/Tailus-UI/container-scaler",
-  "author": "Devscast",
+  "author": "Tailus",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@symfony/webpack-encore": "^1.6.1",
     "autoprefixer": "^10.3.7",

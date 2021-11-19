@@ -1,9 +1,9 @@
 {
-  "name": "entrepreneurmag-ui",
+  "name": "container-scaler",
   "version": "1.0.0",
-  "description": "entrepreneur magazine rdc UI",
+  "description": "A scale on the container and not on the content of a card when hovering.",
   "main": "index.js",
-  "repository": "https://github.com/devscast/entrepreneurmag-ui",
+  "repository": "https://github.com/Tailus-UI/container-scaler",
   "author": "Devscast",
   "license": "MIT",
   "private": true,
